@@ -18,9 +18,6 @@ function changeImage() {
 setInterval(changeImage, 3000);
 
 // Button 
-function onButtonClick() {
-    alert("Button clicked! You can add more functionality here.");
-}
 
 const ctaButton = document.querySelector('.cta-button');
 
