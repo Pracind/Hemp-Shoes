@@ -36,12 +36,9 @@ nav a {
 /* Footer */
 footer {
     background-color: antiquewhite;
-    color: #fff;
+    color: black;
     text-align: center;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 25px;
+    height: 25px; /* Adjust the height as needed */
 }
 
 /* Content */
@@ -62,7 +59,7 @@ footer {
 }
 
 .description {
-    max-width: 25%;
+    max-width: 40%;
     padding: 20px;
 }
 
@@ -75,4 +72,6 @@ footer {
     font-size: 16px;
 }
 
-
+li{
+    padding: 10px;
+}
